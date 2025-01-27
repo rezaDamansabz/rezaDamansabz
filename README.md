@@ -10,6 +10,8 @@
 💞️ I’m looking to collaborate on projects related to Artificial intelligence and it's application in Psychology
 
 📫 How to reach me: damansabz.reza@gmail.com
+
+⚡ Fun fact: My hobbies include: music, playing piano, watching movies, and staying active through exercise. 
 <!--
 **rezaDamansabz/rezaDamansabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
