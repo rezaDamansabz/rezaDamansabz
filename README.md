@@ -1,6 +1,6 @@
 ### Hi friends 👋
 
-I am a Data Scientist, specializing in Machine Learning (ML), and Large Language Models (LLMs). 
+#### I am a Data Scientist, specializing in Machine Learning (ML), and Large Language Models (LLMs). 
 ---
 
 👀 I’m interested in application of AI in different fields.
