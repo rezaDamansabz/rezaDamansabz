@@ -1,7 +1,7 @@
 ### Hi friends 👋
 
 I am a Data Scientist, specializing in Machine Learning (ML), and Large Language Models (LLMs). 
-**bold text**---
+**---**
 
 👀 I’m interested in application of AI in different fields.
 🌱 I’m continuously learning different aspects of AI.  
